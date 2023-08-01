@@ -2,5 +2,11 @@
 	"FileVersion": 3,
 	"EngineAssociation": "5.1",
 	"Category": "",
-	"Description": ""
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "WakaTimeForUE",
+			"Enabled": true
+		}
+	]
 }
