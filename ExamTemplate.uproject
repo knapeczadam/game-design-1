@@ -25,6 +25,10 @@
 		{
 			"Name": "StaticMeshEditorModeling",
 			"Enabled": true
+		},
+		{
+			"Name": "RefreshAllNodes",
+			"Enabled": true
 		}
 	]
 }
