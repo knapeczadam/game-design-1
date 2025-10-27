@@ -28,8 +28,8 @@ This upload serves as an **archive** of the prototype, design intent, and the pa
 
 ## 👨‍🏫 Teaching Staff
 
-**Co-ordinator:** Yosha Vandaele
-**Other teaching staff:** Jorge Monterrubio Sañudo, Stijn Van Coillie, Milan Van Damme, Jill Vanparys
+**Co-ordinator:** Yosha Vandaele  
+**Other teaching staff:** Jorge Monterrubio Sañudo, Stijn Van Coillie, Milan Van Damme, Jill Vanparys  
 
 ---
 
