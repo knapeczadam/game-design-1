@@ -32,8 +32,8 @@ This upload serves as an **archive** of the prototype, design intent, and the pa
 **Semester:** 2023 — Second semester  
 **Study load:** 6 ECTS  
 **Total study time:** 180 hours  
-**Co-ordinator:** Vandaele Yosha  
-**Other teaching staff:** Monterrubio Sanudo Jorge, Van Coillie Stijn, Van Damme Milan, Vanparys Jill
+**Co-ordinator:** Yosha Vandaele
+**Other teaching staff:** Jorge Monterrubio Sañudo, Stijn Van Coillie, Milan Van Damme, Jill Vanparys
 
 ---
 
