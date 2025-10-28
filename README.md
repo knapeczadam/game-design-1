@@ -1,4 +1,4 @@
-# 🎲 Game Design 1 — The Rotator  
+# 🎲 Game Design 1  
 
 Hey DAE student, reviewer, or curious visitor 👋  
 Welcome to the **Game Design 1** repository — a focused prototype called **The Rotator**, created as part of the Game Design 1 course at **DAE**.
